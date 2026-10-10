@@ -44,3 +44,9 @@ Open the index.html file in any web browser.
 
 Welcome to my student portfolio! This website introduces me, my skills, and the projects I have worked on.
 
+\## About Me
+
+
+
+I am a student learning web development and version control. I enjoy learning new technologies and building projects.
+
