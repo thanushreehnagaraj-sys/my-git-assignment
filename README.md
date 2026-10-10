@@ -72,3 +72,19 @@ The portfolio will use a clean, modern layout with readable typography, consiste
 
 The design should provide clear navigation, sufficient colour contrast, and meaningful headings so visitors can browse the portfolio comfortably.
 
+\## Navigation
+
+
+
+The portfolio navigation will provide links to:
+
+\- Home
+
+\- About Me
+
+\- Skills
+
+\- Projects
+
+\- Contact
+
