@@ -88,3 +88,13 @@ The portfolio navigation will provide links to:
 
 \- Contact
 
+\### Navigation Behaviour
+
+Navigation links should use clear labels and take visitors to the relevant section of the portfolio.
+
+\## Project Status
+
+
+
+This portfolio project is being developed using Git branches and collaborative version-control practices.
+
