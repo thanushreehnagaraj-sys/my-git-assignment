@@ -68,3 +68,7 @@ The portfolio will use a clean, modern layout with readable typography, consiste
 
 \- Responsive design for different screen sizes
 
+\### Accessibility and Usability
+
+The design should provide clear navigation, sufficient colour contrast, and meaningful headings so visitors can browse the portfolio comfortably.
+
