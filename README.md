@@ -50,3 +50,21 @@ Welcome to my student portfolio! This website introduces me, my skills, and the 
 
 I am a student learning web development and version control. I enjoy learning new technologies and building projects.
 
+\## Design and Styling
+
+
+
+The portfolio will use a clean, modern layout with readable typography, consistent spacing, and a simple colour scheme.
+
+
+
+\### Design Goals
+
+\- Easy-to-read content
+
+\- Consistent headings and spacing
+
+\- Simple, user-friendly layout
+
+\- Responsive design for different screen sizes
+
