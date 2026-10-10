@@ -92,9 +92,9 @@ The portfolio navigation will provide links to:
 
 Navigation links should use clear labels and take visitors to the relevant section of the portfolio.
 
-\## Project Status
 
 
+\## Project Status - Main Version
 
 This portfolio project is being developed using Git branches and collaborative version-control practices.
 
