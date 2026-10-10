@@ -38,5 +38,9 @@ This is a simple student portfolio website created as part of my Git and Version
 
 Open the index.html file in any web browser.
 
+\## Home Page
 
+
+
+Welcome to my student portfolio! This website introduces me, my skills, and the projects I have worked on.
 
