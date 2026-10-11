@@ -1,104 +1,164 @@
-\# Student Portfolio Website
+\# ✦ Student Portfolio Website
 
 
 
-\## About
-
-This is a simple student portfolio website created as part of my Git and Version Control practical assignment.
+\### A Git and Version Control Practical Project
 
 
 
-\## Features
+Welcome to my student portfolio project! This project demonstrates the fundamentals of version control using Git and GitHub while documenting my learning journey in web development and cybersecurity.
 
-\- Home page
 
-\- About me section
 
-\- Skills section
+\---
 
-\- Projects section
+
+
+\## 👩‍💻 About the Project
+
+
+
+The Student Portfolio Website is a beginner-friendly project designed to organize and present a student's introduction, technical skills, academic projects, and contact information.
+
+
+
+It also demonstrates how Git branches, commits, merges, and conflict resolution help manage changes during software development.
+
+
+
+\## ✨ Key Features
+
+
+
+\- Home section with a personal introduction
+
+\- About Me section
+
+\- Technical Skills section
+
+\- Academic Projects section
 
 \- Navigation menu
 
+\- Responsive design goals
 
-
-\## Technologies Used
-
-\- HTML
-
-\- CSS
-
-\- Git
-
-\- GitHub
+\- Documented Git workflow
 
 
 
-\## How to Run
-
-Open the index.html file in any web browser.
-
-\## Home Page
+\## 🛠️ Technologies Used
 
 
 
-Welcome to my student portfolio! This website introduces me, my skills, and the projects I have worked on.
+| Technology | Purpose |
 
-\## About Me
+|---|---|
 
+| HTML5 | Website structure |
 
+| CSS3 | Visual design and layout |
 
-I am a student learning web development and version control. I enjoy learning new technologies and building projects.
+| Git | Version control |
 
-\## Design and Styling
-
-
-
-The portfolio will use a clean, modern layout with readable typography, consistent spacing, and a simple colour scheme.
+| GitHub | Remote repository hosting |
 
 
 
-\### Design Goals
-
-\- Easy-to-read content
-
-\- Consistent headings and spacing
-
-\- Simple, user-friendly layout
-
-\- Responsive design for different screen sizes
-
-\### Accessibility and Usability
-
-The design should provide clear navigation, sufficient colour contrast, and meaningful headings so visitors can browse the portfolio comfortably.
-
-\## Navigation
+\## 🌿 Git Workflow
 
 
 
-The portfolio navigation will provide links to:
-
-\- Home
-
-\- About Me
-
-\- Skills
-
-\- Projects
-
-\- Contact
-
-\### Navigation Behaviour
-
-Navigation links should use clear labels and take visitors to the relevant section of the portfolio.
-
-\## Project Status - Main and Navigation Features
-
-\## Project Status - Navigation Version
+This project demonstrates:
 
 
 
-This portfolio project demonstrates Git branching, commits, merging, and conflict resolution.
+\- Repository initialization
+
+\- Meaningful commits
+
+\- Feature branching
+
+\- Fast-forward merging
+
+\- Three-way merging
+
+\- Merge conflict resolution
+
+\- Remote repository synchronization
 
 
+
+\### Feature Branches
+
+
+
+| Branch | Responsibility |
+
+|---|---|
+
+| `feature/homepage` | Homepage and introduction |
+
+| `feature/styling` | Design guidelines and accessibility |
+
+| `feature/navbar` | Navigation planning and behaviour |
+
+
+
+\## 🚀 How to Run
+
+
+
+1\. Clone or download the repository.
+
+2\. Open the project folder.
+
+3\. Open `index.html` in a web browser.
+
+
+
+\*\*Note:\*\* The website files must be created before the website can be run. The README documents the intended website structure and workflow.
+
+
+
+\## 👥 Team Collaboration
+
+
+
+The project is organized around three feature areas to support collaborative development.
+
+
+
+\- \*\*Member 1:\*\* Homepage and introduction
+
+\- \*\*Member 2:\*\* Styling and accessibility
+
+\- \*\*Member 3:\*\* Navigation and usability
+
+
+
+The repository uses separate feature branches to keep changes organized. Actual contributions should be recorded under the accounts of the students who make them.
+
+
+
+\## 🎯 Learning Outcomes
+
+
+
+Through this practical, I aim to understand how version control supports collaboration, tracks project history, isolates new features, and manages conflicting changes.
+
+
+
+\## 📌 Project Status
+
+
+
+The Git repository and feature branches have been created. The remaining development and merge operations will be documented as they are completed.
+
+
+
+\---
+
+
+
+\*Student Portfolio Website — Git and Version Control Practical Assignment\*
 
