@@ -92,7 +92,13 @@ The portfolio navigation will provide links to:
 
 Navigation links should use clear labels and take visitors to the relevant section of the portfolio.
 
-\## Project Status - Navigation Version
+\## Project Status - Main and Navigation Features
 
-This portfolio project is being developed using Git branches and collaborative version-control practices.
+\## Project Status
+
+
+
+This portfolio project demonstrates Git branching, commits, merging, and conflict resolution.
+
+
 
