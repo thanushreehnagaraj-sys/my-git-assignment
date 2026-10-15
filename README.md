@@ -1,164 +1,94 @@
-\# ✦ Student Portfolio Website
 
+<div align="center">
 
+# Hey, I'm Thanushree 👋
 
-\### A Git and Version Control Practical Project
+### 🎓 BCA Student | 🔐 Cybersecurity Enthusiast | 💻 Developer
 
+**Exploring Cybersecurity, Web Development & Cloud Computing**
 
+Passionate about technology, creative problem-solving, and building useful projects.  
+Currently learning, experimenting, and growing one commit at a time. ✨
 
-Welcome to my student portfolio project! This project demonstrates the fundamentals of version control using Git and GitHub while documenting my learning journey in web development and cybersecurity.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanushreehnagaraj-sys)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thanushreehnagaraj-sys.github.io/my-git-assignment/)
 
+</div>
 
+---
 
-\---
+## 👩‍💻 About Me
 
+- 🎓 Pursuing a Bachelor of Computer Applications (BCA).
+- 🔐 Interested in cybersecurity and ethical hacking.
+- 🌐 Learning HTML, CSS, JavaScript and web development.
+- ☁️ Exploring AWS and cloud computing.
+- 🐧 Practising Linux, networking and security fundamentals.
+- 🚀 Working towards becoming a skilled cybersecurity professional.
 
+## 🛠️ Languages & Technologies
 
-\## 👩‍💻 About the Project
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
+## 🔐 Cybersecurity Tools
 
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
 
-The Student Portfolio Website is a beginner-friendly project designed to organize and present a student's introduction, technical skills, academic projects, and contact information.
+*Learning through authorised labs and responsible security practice.*
 
+## 📂 My Projects
 
+| Project | Description | Technologies |
+|---|---|---|
+| 🌐 Student Portfolio | A responsive website showcasing my learning journey. | HTML, CSS, Git |
+| 🛍️ Shopeeasy | A mobile shopping app prototype focused on usability. | Figma, UI/UX |
+| 🔐 Cybersecurity Labs | Practical exploration of networking and security concepts. | Linux, Nmap |
 
-It also demonstrates how Git branches, commits, merges, and conflict resolution help manage changes during software development.
+## 📚 Currently Learning
 
+- [ ] Ethical Hacking and Web Security
+- [ ] Linux and Computer Networking
+- [ ] Python and Java Programming
+- [ ] React and Full-Stack Development
+- [ ] AWS Cloud Computing
+- [ ] Data Analytics and Power BI
 
+## 📊 GitHub Statistics
 
-\## ✨ Key Features
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanushreehnagaraj-sys&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanushreehnagaraj-sys&layout=compact&theme=tokyonight&hide_border=true)
 
-\- Home section with a personal introduction
+![GitHub Streak](https://streak-stats.demolab.com?user=thanushreehnagaraj-sys&theme=tokyonight&hide_border=true)
 
-\- About Me section
+</div>
 
-\- Technical Skills section
+## 🌱 My Learning Philosophy
 
-\- Academic Projects section
+> Progress, not perfection. Every project is an opportunity to learn something new.
 
-\- Navigation menu
+I believe in learning by building, improving through practice, and using technology responsibly.
 
-\- Responsive design goals
+---
 
-\- Documented Git workflow
+<div align="center">
 
+### ✨ Thanks for visiting my project!
 
+**Keep Learning · Keep Building · Keep Improving**
 
-\## 🛠️ Technologies Used
+© 2026 Thanushree | Built with curiosity and consistency 💜
 
-
-
-| Technology | Purpose |
-
-|---|---|
-
-| HTML5 | Website structure |
-
-| CSS3 | Visual design and layout |
-
-| Git | Version control |
-
-| GitHub | Remote repository hosting |
-
-
-
-\## 🌿 Git Workflow
-
-
-
-This project demonstrates:
-
-
-
-\- Repository initialization
-
-\- Meaningful commits
-
-\- Feature branching
-
-\- Fast-forward merging
-
-\- Three-way merging
-
-\- Merge conflict resolution
-
-\- Remote repository synchronization
-
-
-
-\### Feature Branches
-
-
-
-| Branch | Responsibility |
-
-|---|---|
-
-| `feature/homepage` | Homepage and introduction |
-
-| `feature/styling` | Design guidelines and accessibility |
-
-| `feature/navbar` | Navigation planning and behaviour |
-
-
-
-\## 🚀 How to Run
-
-
-
-1\. Clone or download the repository.
-
-2\. Open the project folder.
-
-3\. Open `index.html` in a web browser.
-
-
-
-\*\*Note:\*\* The website files must be created before the website can be run. The README documents the intended website structure and workflow.
-
-
-
-\## 👥 Team Collaboration
-
-
-
-The project is organized around three feature areas to support collaborative development.
-
-
-
-\- \*\*Member 1:\*\* Homepage and introduction
-
-\- \*\*Member 2:\*\* Styling and accessibility
-
-\- \*\*Member 3:\*\* Navigation and usability
-
-
-
-The repository uses separate feature branches to keep changes organized. Actual contributions should be recorded under the accounts of the students who make them.
-
-
-
-\## 🎯 Learning Outcomes
-
-
-
-Through this practical, I aim to understand how version control supports collaboration, tracks project history, isolates new features, and manages conflicting changes.
-
-
-
-\## 📌 Project Status
-
-
-
-The Git repository and feature branches have been created. The remaining development and merge operations will be documented as they are completed.
-
-
-
-\---
-
-
-
-\*Student Portfolio Website — Git and Version Control Practical Assignment\*
-
+</div>
